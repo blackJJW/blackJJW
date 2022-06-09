@@ -13,19 +13,34 @@
   
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VScode-FAFAFA.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-FAFAFA.svg?&style=for-the-badge&logo=PyCharm&logoColor=black"/>
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-FAFAFA.svg?&style=for-the-badge&logo=Anaconda&logoColor=black"/>
   <img alt="Spyder" src="https://img.shields.io/badge/Spyder-FAFAFA.svg?&style=for-the-badge&logo=Spyder%20IDE&logoColor=black"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FAFAFA.svg?&style=for-the-badge&logo=Jupyter&logoColor=black"/>
   <img alt="Google_Colab" src="https://img.shields.io/badge/Colab-FAFAFA.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=black"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FAFAFA.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=black"/>   
   <br>
-  
+
+  <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit%20learn-FAFAFA.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black"/>
+  <img alt="Keras" src ="https://img.shields.io/badge/Keras-FAFAFA.svg?&style=for-the-badge&logo=Keras&logoColor=black"/>
+  <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-FAFAFA.svg?&style=for-the-badge&logo=PyTorch&logoColor=black"/>
+  <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FAFAFA.svg?&style=for-the-badge&logo=TensorFlow&logoColor=black"/>
+  <img alt="pandas" src ="https://img.shields.io/badge/pandas-FAFAFA.svg?&style=for-the-badge&logo=pandas&logoColor=black"/>
+  <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-FAFAFA.svg?&style=for-the-badge&logo=NumPy&logoColor=black"/>
+  <img alt="SciPy" src ="https://img.shields.io/badge/SciPy-FAFAFA.svg?&style=for-the-badge&logo=SciPy&logoColor=black"/>
+  <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-FAFAFA.svg?&style=for-the-badge&logo=Selenium&logoColor=black"/>   
+  <br>
+
   <img alt="Django" src ="https://img.shields.io/badge/Django-FAFAFA.svg?&style=for-the-badge&logo=Django&logoColor=black"/>
   <img alt="Flask" src ="https://img.shields.io/badge/Flask-FAFAFA.svg?&style=for-the-badge&logo=Flask&logoColor=black"/>   
   <br>
   
   <img alt="Git" src="https://img.shields.io/badge/Git-FAFAFA.svg?&style=for-the-badge&logo=Git&logoColor=black"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-FAFAFA.svg?&style=for-the-badge&logo=GitHub&logoColor=black"/>
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-FAFAFA.svg?&style=for-the-badge&logo=Slack&logoColor=black"/>   
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-FAFAFA.svg?&style=for-the-badge&logo=GitHub%20Pages&logoColor=black"/>
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-FAFAFA.svg?&style=for-the-badge&logo=Slack&logoColor=black"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-FAFAFA.svg?&style=for-the-badge&logo=Notion&logoColor=black"/>
+  <img alt="Zoom" src="https://img.shields.io/badge/Zoom-FAFAFA.svg?&style=for-the-badge&logo=Zoom&logoColor=black"/>
+  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-FAFAFA.svg?&style=for-the-badge&logo=VirtualBox&logoColor=black"/>  
   <br>
   
   <img alt="Windows" src="https://img.shields.io/badge/Windows-FAFAFA.svg?&style=for-the-badge&logo=Windows&logoColor=black"/>
@@ -35,8 +50,16 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FAFAFA.svg?&style=for-the-badge&logo=MySQL&logoColor=black"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FAFAFA.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=black"/>
   <br>
+
+  <img alt="Google Chrome" src="https://img.shields.io/badge/Chrome-FAFAFA.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=black"/>
+  <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-FAFAFA.svg?&style=for-the-badge&logo=Google%20Drive&logoColor=black"/>   
+  <br>
   
   <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-FAFAFA.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black"/>
+  <br>
+
+  <img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-FAFAFA.svg?&style=for-the-badge&logo=WakaTime&logoColor=black"/>
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FAFAFA.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=black"/>
   <br>
   
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-FAFAFA.svg?&style=for-the-badge&logo=Kaggle&logoColor=black"/>
