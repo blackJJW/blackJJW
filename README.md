@@ -27,13 +27,21 @@
   <img alt="pandas" src ="https://img.shields.io/badge/pandas-FAFAFA.svg?&style=for-the-badge&logo=pandas&logoColor=black"/>
   <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-FAFAFA.svg?&style=for-the-badge&logo=NumPy&logoColor=black"/>
   <img alt="SciPy" src ="https://img.shields.io/badge/SciPy-FAFAFA.svg?&style=for-the-badge&logo=SciPy&logoColor=black"/>
-  <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-FAFAFA.svg?&style=for-the-badge&logo=Selenium&logoColor=black"/>   
+  <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-FAFAFA.svg?&style=for-the-badge&logo=Selenium&logoColor=black"/>
+  <img alt="tqdm" src ="https://img.shields.io/badge/tqdm-FAFAFA.svg?&style=for-the-badge&logo=tqdm&logoColor=black"/> 
+  <br>
+
+  <img alt="JSON" src ="https://img.shields.io/badge/JSON-FAFAFA.svg?&style=for-the-badge&logo=JSON&logoColor=black"/>
+  <img alt="Markdown" src ="https://img.shields.io/badge/Markdown-FAFAFA.svg?&style=for-the-badge&logo=Markdown&logoColor=black"/>
   <br>
 
   <img alt="Django" src ="https://img.shields.io/badge/Django-FAFAFA.svg?&style=for-the-badge&logo=Django&logoColor=black"/>
-  <img alt="Flask" src ="https://img.shields.io/badge/Flask-FAFAFA.svg?&style=for-the-badge&logo=Flask&logoColor=black"/>   
+  <img alt="Flask" src ="https://img.shields.io/badge/Flask-FAFAFA.svg?&style=for-the-badge&logo=Flask&logoColor=black"/>
+  <img alt="Hugo" src ="https://img.shields.io/badge/Hugo-FAFAFA.svg?&style=for-the-badge&logo=Hugo&logoColor=black"/>
+  <img alt="Hexo" src ="https://img.shields.io/badge/Hexo-FAFAFA.svg?&style=for-the-badge&logo=Hexo&logoColor=black"/>   
   <br>
   
+  <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-FAFAFA.svg?&style=for-the-badge&logo=Windows%20Terminal&logoColor=black"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-FAFAFA.svg?&style=for-the-badge&logo=Git&logoColor=black"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-FAFAFA.svg?&style=for-the-badge&logo=GitHub&logoColor=black"/>
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-FAFAFA.svg?&style=for-the-badge&logo=GitHub%20Pages&logoColor=black"/>
@@ -44,7 +52,9 @@
   <br>
   
   <img alt="Windows" src="https://img.shields.io/badge/Windows-FAFAFA.svg?&style=for-the-badge&logo=Windows&logoColor=black"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FAFAFA.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>   
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FAFAFA.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
+  <img alt="CentOS" src="https://img.shields.io/badge/CentOS-FAFAFA.svg?&style=for-the-badge&logo=CentOS&logoColor=black"/> 
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-FAFAFA.svg?&style=for-the-badge&logo=Ubuntu&logoColor=black"/>  
   <br>
   
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FAFAFA.svg?&style=for-the-badge&logo=MySQL&logoColor=black"/>
@@ -63,6 +73,11 @@
   <br>
   
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-FAFAFA.svg?&style=for-the-badge&logo=Kaggle&logoColor=black"/>
+  <br>
+
+  <img alt="Microsoft Access" src="https://img.shields.io/badge/Access-FAFAFA.svg?&style=for-the-badge&logo=Microsoft%20Access&logoColor=black"/>
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Excel-FAFAFA.svg?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=black"/>
+  <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/PowerPoint-FAFAFA.svg?&style=for-the-badge&logo=Microsoft%20PowerPoint&logoColor=black"/>
   <br>
   <br><br>
 </div>
