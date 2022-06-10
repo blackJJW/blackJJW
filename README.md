@@ -1,7 +1,7 @@
 <div align=left>
   
-  [![GitHub blog](https://img.shields.io/badge/blog-FAFAFA.svg?&style=for-the-badge&logo=GitHub&logoColor=black)](https://blackjjw.github.io/)
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-FAFAFA.svg?&style=for-the-badge&logo=Gmail&logoColor=black"> : <jjinwoo92@gmail.com>
+  [![GitHub blog](https://img.shields.io/badge/blog-FAFAFA.svg?&style=for-the-badge&logo=GitHub&logoColor=black)](https://blackjjw.github.io/) <br>
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-FAFAFA.svg?&style=for-the-badge&logo=Gmail&logoColor=black"> ```jjinwoo92@gmail.com```
 </div>
 
 <div align=center><h1>❖ STACKS ❖</h1></div>
