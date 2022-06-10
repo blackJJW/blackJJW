@@ -1,4 +1,8 @@
-<div align=left><h5>❖ Email : jjinwoo92@gmail.com</h1></div>
+<div align=left>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-FAFAFA.svg?&style=for-the-badge&logo=Gmail&logoColor=black)](jjinwoo92@gmail.com)
+  [![GitHub blog](https://img.shields.io/badge/blog-FAFAFA.svg?&style=for-the-badge&logo=GitHub&logoColor=black)](https://blackjjw.github.io/)
+</div>
 
 <div align=center><h1>❖ STACKS ❖</h1></div>
 
