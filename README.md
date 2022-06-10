@@ -1,18 +1,20 @@
 <div align=left>
   
-  [![GitHub blog](https://img.shields.io/badge/blog-FAFAFA.svg?&style=for-the-badge&logo=GitHub&logoColor=black)](https://blackjjw.github.io/) <br>
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-FAFAFA.svg?&style=for-the-badge&logo=Gmail&logoColor=black"> ```jjinwoo92@gmail.com```
+  > [![GitHub blog](https://img.shields.io/badge/blog-FAFAFA.svg?&style=for-the-badge&logo=GitHub&logoColor=black)](https://blackjjw.github.io/)<br>
+  > <img alt="Gmail" src="https://img.shields.io/badge/Gmail-FAFAFA.svg?&style=for-the-badge&logo=Gmail&logoColor=black">
+  >>    `jjinwoo92@gmail.com`
 </div>
 
 <div align=center><h1>❖ STACKS ❖</h1></div>
 
 <div align=center>  
   <img alt="Python" src ="https://img.shields.io/badge/Python-FAFAFA.svg?&style=for-the-badge&logo=Python&logoColor=black"/>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-FAFAFA.svg?&style=for-the-badge&logo=Java&logoColor=black"/>
+  <img alt="C" src ="https://img.shields.io/badge/C-FAFAFA.svg?&style=for-the-badge&logo=C&logoColor=black"/>   
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-FAFAFA.svg?&style=for-the-badge&logo=HTML5&logoColor=black"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FAFAFA.svg?&style=for-the-badge&logo=CSS3&logoColor=black"/>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-FAFAFA.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img alt="Java" src ="https://img.shields.io/badge/Java-FAFAFA.svg?&style=for-the-badge&logo=Java&logoColor=black"/>
-  <img alt="C" src ="https://img.shields.io/badge/C-FAFAFA.svg?&style=for-the-badge&logo=C&logoColor=black"/>   
+  <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-FAFAFA.svg?&style=for-the-badge&logo=jQuery&logoColor=black"/>
   <br>
   
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VScode-FAFAFA.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black"/>
