@@ -8,31 +8,31 @@
 <div align=center><h1>❖ STACKS ❖</h1></div>
 
 <div align=center>  
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black"/>
-  <img alt="Java" src ="https://img.shields.io/badge/Java-FAFAFA.svg?&style=for-the-badge&logo=Java&logoColor=black"/>
-  <img alt="C" src ="https://img.shields.io/badge/C-FAFAFA.svg?&style=for-the-badge&logo=C&logoColor=black"/>   
-  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-FAFAFA.svg?&style=for-the-badge&logo=HTML5&logoColor=black"/>
-  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FAFAFA.svg?&style=for-the-badge&logo=CSS3&logoColor=black"/>
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-FAFAFA.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-FAFAFA.svg?&style=for-the-badge&logo=jQuery&logoColor=black"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logoColor=black"/>
+  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>   
+  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=black"/>
+  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=black"/>
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=black"/>
   <br>
   
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VScode-FAFAFA.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black"/>
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-FAFAFA.svg?&style=for-the-badge&logo=PyCharm&logoColor=black"/>
-  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-FAFAFA.svg?&style=for-the-badge&logo=Anaconda&logoColor=black"/>
-  <img alt="Spyder" src="https://img.shields.io/badge/Spyder-FAFAFA.svg?&style=for-the-badge&logo=Spyder%20IDE&logoColor=black"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FAFAFA.svg?&style=for-the-badge&logo=Jupyter&logoColor=black"/>
-  <img alt="Google_Colab" src="https://img.shields.io/badge/Colab-FAFAFA.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=black"/>
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FAFAFA.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=black"/> 
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-FAFAFA.svg?&style=for-the-badge&logo=Spring&logoColor=black"/> 
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VScode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black"/>
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=black"/>
+  <img alt="Spyder" src="https://img.shields.io/badge/Spyder-FF0000.svg?&style=for-the-badge&logo=Spyder%20IDE&logoColor=black"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=black"/>
+  <img alt="Google_Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=black"/>
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=black"/> 
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black"/> 
   <br>
 
-  <img alt="Git" src="https://img.shields.io/badge/Git-FAFAFA.svg?&style=for-the-badge&logo=Git&logoColor=black"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-FAFAFA.svg?&style=for-the-badge&logo=GitHub&logoColor=black"/>
-  <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-FAFAFA.svg?&style=for-the-badge&logo=Sourcetree&logoColor=black"/>
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-FAFAFA.svg?&style=for-the-badge&logo=Slack&logoColor=black"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-FAFAFA.svg?&style=for-the-badge&logo=Notion&logoColor=black"/>
-  <img alt="Zoom" src="https://img.shields.io/badge/Zoom-FAFAFA.svg?&style=for-the-badge&logo=Zoom&logoColor=black"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=black"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=black"/>
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=black"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=black"/>
   <br>
   
   <img alt="Windows" src="https://img.shields.io/badge/Windows-FAFAFA.svg?&style=for-the-badge&logo=Windows&logoColor=black"/>
