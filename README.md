@@ -8,7 +8,7 @@
 <div align=center><h1>❖ STACKS ❖</h1></div>
 
 <div align=center>  
-  <img alt="Python" src ="https://img.shields.io/badge/Python-FAFAFA.svg?&style=for-the-badge&logo=Python&logoColor=black"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black"/>
   <img alt="Java" src ="https://img.shields.io/badge/Java-FAFAFA.svg?&style=for-the-badge&logo=Java&logoColor=black"/>
   <img alt="C" src ="https://img.shields.io/badge/C-FAFAFA.svg?&style=for-the-badge&logo=C&logoColor=black"/>   
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-FAFAFA.svg?&style=for-the-badge&logo=HTML5&logoColor=black"/>
