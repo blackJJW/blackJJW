@@ -1,7 +1,7 @@
 <div align=left>
   
   > [![GitHub blog](https://img.shields.io/badge/blog-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://blackjjw.github.io/)<br> 
-  > [![jjinwoo92@gmail.com](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=black)](jjinwoo92@gmail.com)<br>
+  > [![jjinwoo92@gmail.com](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=black)]("jjinwoo92@gmail.com")<br>
   
 </div>
 
