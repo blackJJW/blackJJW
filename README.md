@@ -1,10 +1,15 @@
 <div align=left>
-  
-  > [![GitHub blog](https://img.shields.io/badge/blog-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://blackjjw.github.io/)<br> 
-  <img 
-        src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=black"
+
+  <a href="jjinwoo92@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="jjinwoo92@gmail.com">
+</a>
+<a href="https://blackjjw.github.io/">
+    <img 
+        src="https://img.shields.io/badge/blog-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   
 </div>
 
