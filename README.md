@@ -13,7 +13,7 @@
   
 </div>
 
-<div align=center><h1>❖ STACKS ❖</h1></div>
+<div align=center><h1>❖ TECH STACKS ❖</h1></div>
 
 <div align=center>  
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
