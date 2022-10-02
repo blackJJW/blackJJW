@@ -15,7 +15,8 @@
 
 <div align=center><h1>❖ TECH STACKS ❖</h1></div>
 
-<div align=center>  
+<div align=left>
+  <h3>※ Programming Language </h3>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="Java" src ="https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -23,11 +24,12 @@
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <br>
   
+  <h3>※ JS Library </h3>
   <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=black"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
-  <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=black"/>
   <br>
   
+  <h3>※ Development Environment </h3>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VScode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=black"/>
@@ -37,11 +39,17 @@
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> 
   <br>
   
+  <h3>※ Web Application Framework </h3>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=black"/>
   <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=black"/>
   <br>
-
+  
+  <h3>※ Front-end Framework </h3>
+  <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=black"/>
+  <br>
+  
+  <h3>※ Team Collaboration Tool </h3>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=black"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>
@@ -50,24 +58,23 @@
   <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=black"/>
   <br>
   
+  <h3>※ OS </h3>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=black"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/> 
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=black"/>  
   <br>
   
+  <h3>※ DBMS </h3>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=black"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=black"/>
   <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=black"/>
   <br>
   
+  <h3>※ etc. </h3>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
-  <br>
-
   <img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-000000.svg?&style=for-the-badge&logo=WakaTime&logoColor=white"/>
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=black"/>
-  <br>
-  
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=black"/>
   <br>
   <br><br>
