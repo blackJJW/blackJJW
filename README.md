@@ -34,6 +34,7 @@
   <h3>※ Data Analysis Library </h3>
   <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/>
+  <img alt="SciPy" src ="https://img.shields.io/badge/SciPy-8CAAE6.svg?&style=for-the-badge&logo=SciPy&logoColor=white"/>
   <img alt="matplotlib" src ="https://img.shields.io/badge/matplotlib-1572B6.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img alt="seaborn" src ="https://img.shields.io/badge/seaborn-0769AD.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/>
   <br>
