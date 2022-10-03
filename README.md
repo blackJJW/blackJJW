@@ -24,6 +24,20 @@
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <br>
   
+  <h3>※ ML · DL Library </h3>
+  <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+  <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <br>
+  
+  <h3>※ Data Analysis Library </h3>
+  <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/>
+  <img alt="matplotlib" src ="https://img.shields.io/badge/matplotlib-1572B6.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img alt="seaborn" src ="https://img.shields.io/badge/seaborn-0769AD.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <br>
+  
   <h3>※ JS Library </h3>
   <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=black"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
