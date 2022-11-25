@@ -2,7 +2,7 @@
 
   <a href="mailto:jjinwoo92@gmail.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
+        src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jjinwoo92@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://blackjjw.github.io/">
@@ -38,6 +38,10 @@
   <img alt="matplotlib" src ="https://img.shields.io/badge/matplotlib-1572B6.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img alt="seaborn" src ="https://img.shields.io/badge/seaborn-0769AD.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/>
   <br>
+  
+  <h3>※ GPU </h3>
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=black"/>
+  <img alt="cuDNN" src="https://img.shields.io/badge/cuDNN-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=black"/>
   
   <h3>※ Development Environment </h3>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VScode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black"/>
