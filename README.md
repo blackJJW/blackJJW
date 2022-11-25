@@ -42,6 +42,7 @@
   <h3>※ GPU </h3>
   <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=black"/>
   <img alt="cuDNN" src="https://img.shields.io/badge/cuDNN-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=black"/>
+  <br>
   
   <h3>※ Development Environment </h3>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VScode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black"/>
@@ -86,6 +87,13 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/> 
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>  
+  <br>
+  
+  <h3>※ LAPTOP </h3>
+  <img alt="LG" src="https://img.shields.io/badge/LG-A50034.svg?&style=for-the-badge&logo=LG&logoColor=white"/>
+  <img alt="ASUS" src="https://img.shields.io/badge/ASUS-000000.svg?&style=for-the-badge&logo=ASUS&logoColor=white"/>
+  <img alt="Lenovo" src="https://img.shields.io/badge/Lenovo-E2231A.svg?&style=for-the-badge&logo=Lenovo&logoColor=white"/>
+  <img alt="Acer" src="https://img.shields.io/badge/Acer-83B81A.svg?&style=for-the-badge&logo=Acer&logoColor=white"/>
   <br>
   
   <h3>※ DBMS </h3>
