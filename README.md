@@ -19,7 +19,7 @@
   <h3>※ Programming Language </h3>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-FF160B.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
-  <img alt="C" src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C" src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black"/>
   <img alt="C++" src ="https://img.shields.io/badge/-c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -42,39 +42,39 @@
   <br>
   
   <h3>※ GPU </h3>
-  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=black"/>
-  <img alt="cuDNN" src="https://img.shields.io/badge/cuDNN-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=black"/>
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>
+  <img alt="cuDNN" src="https://img.shields.io/badge/cuDNN-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>
   <br>
   
   <h3>※ Development Environment </h3>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VScode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=black"/>
-  <img alt="Spyder" src="https://img.shields.io/badge/Spyder-FF0000.svg?&style=for-the-badge&logo=Spyder%20IDE&logoColor=black"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=black"/>
-  <img alt="Google_Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=black"/>
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white"/>
+  <img alt="Spyder" src="https://img.shields.io/badge/Spyder-FF0000.svg?&style=for-the-badge&logo=Spyder%20IDE&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img alt="Google_Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
-  <img alt="Spring_Tool_Suite" src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black"/>
+  <img alt="Spring_Tool_Suite" src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <br>
   
   <h3>※ Back-end </h3>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=black"/>
-  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=black"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
   <br>
   
   <h3>※ Front-end </h3>
-  <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=black"/>
+  <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
-  <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=black"/>
+  <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <br>
   
   <h3>※ Team Collaboration Tool </h3>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=black"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>
   <img alt="KakaoTalk" src="https://img.shields.io/badge/KakaoTalk-FFCD00.svg?&style=for-the-badge&logo=KakaoTalk&logoColor=black"/>
@@ -100,16 +100,16 @@
   <br>
   
   <h3>※ DBMS </h3>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=black"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=black"/>
-  <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=black"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+  <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=white"/>
   <br>
   
   <h3>※ etc. </h3>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
   <img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-000000.svg?&style=for-the-badge&logo=WakaTime&logoColor=white"/>
-  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=black"/>
-  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=black"/>
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=white"/>
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white"/>
   <br>
   <br><br>
 </div>
