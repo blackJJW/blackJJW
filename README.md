@@ -55,6 +55,7 @@
   <img alt="Spyder" src="https://img.shields.io/badge/Spyder-FF0000.svg?&style=for-the-badge&logo=Spyder%20IDE&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img alt="Google_Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white"/>
+  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
   <img alt="Spring_Tool_Suite" src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <br>
