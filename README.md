@@ -43,8 +43,8 @@
   <br>
   
   <h3>※ GPU </h3>
-  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>
-  <img alt="cuDNN" src="https://img.shields.io/badge/cuDNN-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>
+  <img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>
+  <img alt="AMD" src="https://img.shields.io/badge/AMD-ED1C24.svg?&style=for-the-badge&logo=AMD&logoColor=white"/>
   <br>
   
   <h3>※ Development Environment </h3>
@@ -91,7 +91,8 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/> 
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>  
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/> 
+  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white"/> 
   <br>
   
   <h3>※ LAPTOP </h3>
@@ -111,6 +112,7 @@
   <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
   <img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-000000.svg?&style=for-the-badge&logo=WakaTime&logoColor=white"/>
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=white"/>
+  <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black"/>
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white"/>
   <br>
   <br><br>
