@@ -92,7 +92,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/> 
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/> 
-  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white"/> 
   <br>
   
   <h3>※ LAPTOP </h3>
@@ -115,6 +114,7 @@
   <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black"/>
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white"/>
   <img alt="Chocolatey" src="https://img.shields.io/badge/Chocolatey-80B5E3.svg?&style=for-the-badge&logo=Chocolatey&logoColor=white"/>
+  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white"/> 
   <br>
   <br><br>
 </div>
