@@ -114,6 +114,7 @@
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=white"/>
   <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black"/>
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  <img alt="Chocolatey" src="https://img.shields.io/badge/Chocolatey-80B5E3.svg?&style=for-the-badge&logo=Chocolatey&logoColor=white"/>
   <br>
   <br><br>
 </div>
