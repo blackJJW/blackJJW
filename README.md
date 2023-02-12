@@ -32,7 +32,7 @@
 <div align=left><h1>❖ TECH STACKS ❖</h1></div>
 
 <div align=left>
-  <h3>※ Programming Language </h3>
+  <h3>※ Programming Languages </h3>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
   <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-FF160B.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
@@ -44,7 +44,7 @@
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <br>
   
-  <h3>※ Development Environment </h3>
+  <h3>※ Development Environments </h3>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VScode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
@@ -87,7 +87,7 @@
   <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=white"/>
   <br>
   
-  <h3>※ Tool </h3>
+  <h3>※ Tools </h3>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>
