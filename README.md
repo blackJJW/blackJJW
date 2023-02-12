@@ -10,7 +10,7 @@
         src="https://img.shields.io/badge/blog-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+  
 ---
   
 </div>
@@ -25,6 +25,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackJJW&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
   </p>
   <!-- ![blackJJW's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackJJW) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=blackJJW&row=1&column=7&theme=darkhub">
 </div>
 
 ---
