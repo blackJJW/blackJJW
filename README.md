@@ -14,13 +14,15 @@
 </div>
 
 <div align=center>
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackjjw)](https://solved.ac/blackjjw)
+  <p>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blackjjw"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=blackjjw&theme=dark"/>
+  </p>
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blackJJW&show_icons=true&theme=dark">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackJJW&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
   </p>
-  <!-- [![blackJJW's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackJJW&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+  <!-- ![blackJJW's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackJJW) -->
 </div>
 
 <div align=left><h1>❖ TECH STACKS ❖</h1></div>
@@ -36,21 +38,6 @@
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <br>
-  
-  <h3>※ ML · DL Library </h3>
-  <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <br>
-  
-  <h3>※ Data Analysis Library </h3>
-  <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/>
-  <img alt="SciPy" src ="https://img.shields.io/badge/SciPy-8CAAE6.svg?&style=for-the-badge&logo=SciPy&logoColor=white"/>
-  <img alt="matplotlib" src ="https://img.shields.io/badge/matplotlib-1572B6.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img alt="seaborn" src ="https://img.shields.io/badge/seaborn-0769AD.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/>
   <br>
   
   <h3>※ Development Environment </h3>
@@ -82,18 +69,6 @@
   <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <br>
   
-  <h3>※ Team Collaboration Tool </h3>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>
-  <img alt="KakaoTalk" src="https://img.shields.io/badge/KakaoTalk-FFCD00.svg?&style=for-the-badge&logo=KakaoTalk&logoColor=black"/>
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
-  <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-  <br>
-  
   <h3>※ OS </h3>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
@@ -105,6 +80,18 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=white"/>
+  <br>
+  
+  <h3>※ Team Collaboration Tool </h3>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>
+  <img alt="KakaoTalk" src="https://img.shields.io/badge/KakaoTalk-FFCD00.svg?&style=for-the-badge&logo=KakaoTalk&logoColor=black"/>
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <br>
   
   <br><br>
