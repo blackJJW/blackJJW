@@ -122,8 +122,11 @@
 </div>
 
 <div align=center>
-
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackjjw)](https://solved.ac/blackjjw)
+  
   ![blackJJW's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackJJW&show_icons=true&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackJJW&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  
   <!-- [![blackJJW's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackJJW&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
