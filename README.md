@@ -10,6 +10,8 @@
         src="https://img.shields.io/badge/blog-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+---
   
 </div>
 
@@ -24,6 +26,8 @@
   </p>
   <!-- ![blackJJW's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackJJW) -->
 </div>
+
+---
 
 <div align=left><h1>❖ TECH STACKS ❖</h1></div>
 
