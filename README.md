@@ -87,7 +87,7 @@
   <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=white"/>
   <br>
   
-  <h3>※ Team Collaboration Tool </h3>
+  <h3>※ Tool </h3>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>
