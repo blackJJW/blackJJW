@@ -13,7 +13,17 @@
   
 </div>
 
-<div align=center><h1>❖ TECH STACKS ❖</h1></div>
+<div align=center>
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackjjw)](https://solved.ac/blackjjw)
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blackJJW&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackJJW&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
+  </p>
+  <!-- [![blackJJW's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackJJW&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+</div>
+
+<div align=left><h1>❖ TECH STACKS ❖</h1></div>
 
 <div align=left>
   <h3>※ Programming Language </h3>
@@ -41,11 +51,6 @@
   <img alt="SciPy" src ="https://img.shields.io/badge/SciPy-8CAAE6.svg?&style=for-the-badge&logo=SciPy&logoColor=white"/>
   <img alt="matplotlib" src ="https://img.shields.io/badge/matplotlib-1572B6.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img alt="seaborn" src ="https://img.shields.io/badge/seaborn-0769AD.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <br>
-  
-  <h3>※ GPU </h3>
-  <img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/>
-  <img alt="AMD" src="https://img.shields.io/badge/AMD-ED1C24.svg?&style=for-the-badge&logo=AMD&logoColor=white"/>
   <br>
   
   <h3>※ Development Environment </h3>
@@ -96,37 +101,11 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/> 
   <br>
   
-  <h3>※ LAPTOP </h3>
-  <img alt="LG" src="https://img.shields.io/badge/LG-A50034.svg?&style=for-the-badge&logo=LG&logoColor=white"/>
-  <img alt="ASUS" src="https://img.shields.io/badge/ASUS-000000.svg?&style=for-the-badge&logo=ASUS&logoColor=white"/>
-  <img alt="Lenovo" src="https://img.shields.io/badge/Lenovo-E2231A.svg?&style=for-the-badge&logo=Lenovo&logoColor=white"/>
-  <img alt="Acer" src="https://img.shields.io/badge/Acer-83B81A.svg?&style=for-the-badge&logo=Acer&logoColor=white"/>
-  <br>
-  
   <h3>※ DBMS </h3>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=white"/>
   <br>
   
-  <h3>※ etc. </h3>
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
-  <img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-000000.svg?&style=for-the-badge&logo=WakaTime&logoColor=white"/>
-  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=white"/>
-  <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black"/>
-  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white"/>
-  <img alt="Chocolatey" src="https://img.shields.io/badge/Chocolatey-80B5E3.svg?&style=for-the-badge&logo=Chocolatey&logoColor=white"/>
-  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white"/> 
-  <br>
   <br><br>
-</div>
-
-<div align=center>
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackjjw)](https://solved.ac/blackjjw)
-  
-  ![blackJJW's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackJJW&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackJJW&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <!-- [![blackJJW's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackJJW&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
