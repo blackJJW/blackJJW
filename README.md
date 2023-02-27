@@ -10,7 +10,12 @@
         src="https://img.shields.io/badge/blog-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-  
+
+<a>
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white"/>
+</a>
+
 ---
   
 </div>
@@ -98,6 +103,7 @@
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/ChatGPT-412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
   <br>
   
   <br><br>
