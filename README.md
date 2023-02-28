@@ -85,6 +85,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/> 
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/> 
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?&style=for-the-badge&logo=Kali%20Linux&logoColor=white"/> 
   <br>
   
   <h3>※ DBMS </h3>
