@@ -97,6 +97,7 @@
   <h3>※ Tools </h3>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
   <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>
   <img alt="KakaoTalk" src="https://img.shields.io/badge/KakaoTalk-FFCD00.svg?&style=for-the-badge&logo=KakaoTalk&logoColor=black"/>
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
@@ -105,6 +106,7 @@
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
   <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9.svg?&style=for-the-badge&logo=Portainer&logoColor=white"/>
   <img alt="OpenAI" src="https://img.shields.io/badge/ChatGPT-412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?&style=for-the-badge&logo=Wireshark&logoColor=white"/>
   <br>
