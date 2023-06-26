@@ -114,6 +114,3 @@
   <br><br>
 </div>
 
----
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=blackJJW&custom_title=Contribution%20Graph&theme=react-dark)](https://github.com/blackJJW/github-readme-activity-graph)
