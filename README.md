@@ -27,7 +27,6 @@
   </p>
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blackJJW&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackJJW&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
   </p>
   <!-- ![blackJJW's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackJJW) -->
   <img src="https://github-profile-trophy.vercel.app/?username=blackJJW&row=1&column=7&theme=darkhub">
