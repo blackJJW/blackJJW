@@ -30,10 +30,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blackjjw"/>
     <img src="http://mazandi.herokuapp.com/api?handle=blackjjw&theme=dark"/>
   </p>
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blackJJW&show_icons=true&theme=dark">
-  </p>
-  <!-- ![blackJJW's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackJJW) -->
+  
   <img src="https://github-profile-trophy.vercel.app/?username=blackJJW&row=1&column=7&theme=darkhub">
 </div>
 
@@ -76,6 +73,8 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img alt="GStreamer" src="https://img.shields.io/badge/GStreamer-FF3131.svg?&style=for-the-badge&logo=GStreamer&logoColor=white"/>
+  <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808.svg?&style=for-the-badge&logo=FFmpeg&logoColor=white"/>
   <br>
   
   <h3>※ Front-end </h3>
@@ -107,6 +106,7 @@
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
   <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
