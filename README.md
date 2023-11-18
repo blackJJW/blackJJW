@@ -5,11 +5,6 @@
         src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jjinwoo92@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://velog.io/@blackjjw">
-    <img 
-        src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <a href="https://blackjjw.github.io/">
     <img 
         src="https://img.shields.io/badge/blog-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"
