@@ -22,11 +22,9 @@
 
 <div align=center>
   <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=blackJJW&show_icons=true&theme=highcontrast">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blackjjw"/>
-    <img src="http://mazandi.herokuapp.com/api?handle=blackjjw&theme=dark"/>
   </p>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=blackJJW&row=1&column=7&theme=darkhub">
 </div>
 
 ---
