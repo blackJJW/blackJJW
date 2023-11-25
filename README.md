@@ -15,10 +15,15 @@
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white"/>
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white"/>
 </a>
+<a>
+  <h2>[  CREATE READ UPDATE DELETE  ]</h3>
+</a>
+
+</div>
 
 ---
   
-</div>
+
 
 <div align=center>
   <p>
