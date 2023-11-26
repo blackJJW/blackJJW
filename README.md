@@ -34,7 +34,6 @@
   <div>
      <p>
       <img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blackjjw"/>
-      <img height=195 width=410 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackJJW&theme=nord_dark&utcOffset=9" />
     </p>
   </div>
  
