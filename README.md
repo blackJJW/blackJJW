@@ -66,37 +66,26 @@
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
   <img alt="Spring_Tool_Suite" src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <br>
-
-  <h3>※ Multimedia Libraries </h3>
-  <img alt="GStreamer" src="https://img.shields.io/badge/GStreamer-FF3131.svg?&style=for-the-badge&logo=GStreamer&logoColor=white"/>
-  <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808.svg?&style=for-the-badge&logo=FFmpeg&logoColor=white"/>
-  <br>
   
   <h3>※ Back-end </h3>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
   <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <br>
-  
-  <h3>※ Front-end </h3>
-  <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
-  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
-  <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+  <img alt="fastapi" src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
   <br>
   
   <h3>※ OS </h3>
+  <img alt="macos" src="https://img.shields.io/badge/macos-000000.svg?&style=for-the-badge&logo=macos&logoColor=white"/> 
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/> 
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?&style=for-the-badge&logo=Kali%20Linux&logoColor=white"/> 
   <br>
   
-  <h3>※ DBMS </h3>
+  <h3>※ DB </h3>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=white"/>
+  <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   <br>
   
   <h3>※ Tools </h3>
@@ -104,15 +93,12 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9.svg?&style=for-the-badge&logo=Portainer&logoColor=white"/>
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white"/>
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
   <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white"/>
   <img alt="OpenAI" src="https://img.shields.io/badge/ChatGPT-412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img alt="postman" src="https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
   <br>
   
   <br>
