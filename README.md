@@ -11,10 +11,12 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<!--
 <a>
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white"/>
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white"/>
 </a>
+-->
 
 </div>
 
@@ -35,8 +37,6 @@
   </div>
  
 </div>
-
-
 
 ---
 
@@ -60,11 +60,9 @@
   <img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=Vim&logoColor=white"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white"/>
-  <img alt="Spyder" src="https://img.shields.io/badge/Spyder-FF0000.svg?&style=for-the-badge&logo=Spyder%20IDE&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img alt="Google_Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
-  <img alt="Spring_Tool_Suite" src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <br>
   
   <h3>※ Back-end </h3>
@@ -95,9 +93,9 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
+  <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white"/>
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white"/>
-  <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white"/>
   <img alt="OpenAI" src="https://img.shields.io/badge/ChatGPT-412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
   <br>
   
