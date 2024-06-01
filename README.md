@@ -65,6 +65,7 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img alt="Google_Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
+  <img alt="intellijidea" src="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <br>
 
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
