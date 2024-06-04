@@ -73,7 +73,7 @@
   <img alt="fastapi" src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
   <br>
 
-  <img alt="macos" src="https://img.shields.io/badge/macos-000000.svg?&style=for-the-badge&logo=macos&logoColor=white"/> 
+  <img alt="mac" src="https://img.shields.io/badge/mac-000000.svg?&style=for-the-badge&logo=macos&logoColor=white"/> 
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/> 
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?&style=for-the-badge&logo=Kali%20Linux&logoColor=white"/> 
