@@ -27,7 +27,7 @@
   <div>
     <p>
        <img src="https://github-readme-stats.vercel.app/api?username=blackJJW&show_icons=true&theme=highcontrast&card_width=300">
-       <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackJJW&langs_count=10&layout=compact&theme=highcontrast&card_width=440">
+       <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackJJW&langs_count=20&layout=compact&theme=highcontrast&card_width=440">
     </p>
   </div>
   <!--
