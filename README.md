@@ -48,6 +48,7 @@
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
   <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-FF160B.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
+  <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img alt="C" src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black"/>
   <img alt="C++" src ="https://img.shields.io/badge/-c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img alt="csharp" src ="https://img.shields.io/badge/-csharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -72,6 +73,7 @@
   <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
   <img alt="fastapi" src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
   <br>
 
   <img alt="mac" src="https://img.shields.io/badge/mac-000000.svg?&style=for-the-badge&logo=macos&logoColor=white"/> 
