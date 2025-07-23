@@ -1,11 +1,14 @@
-<h1 align="left">Hi, I'm Jung Jin Woo</h1>
+<img src="gif/output.gif"/>
+
+---
+
 <h3 align="left">AI-focused Full Stack & MLOps Engineer based in South Korea</h3>
 
 - 📝 I regularly write articles on [https://blackjjw.github.io/](https://blackjjw.github.io/)
 
 - 📫 How to reach me **jjinwoo92@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/blackJJW/resume](https://github.com/blackJJW/resume)
+- 📄 Resume : [https://github.com/blackJJW/resume](https://github.com/blackJJW/resume)
 
 ### 👨‍💻 About Me
 
