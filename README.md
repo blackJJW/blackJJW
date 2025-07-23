@@ -1,4 +1,8 @@
-<img src="gif/output.gif"/>
+<p align="center">
+  <a href="https://github.com/blackJJW/matrix-boot-me">
+    <img src="gif/output.gif" alt="Matrix Boot Animation" />
+  </a>
+</p>
 
 ---
 
