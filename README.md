@@ -77,5 +77,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackjjw&" alt="blackjjw" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackjjw&layout=compact&hide=html" alt="blackjjw" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackjjw&layout=compact&hide=jupyter%20notebook,css,html" alt="blackjjw" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=blackjjw&show_icons=true&theme=default" alt="blackjjw" /></p>
