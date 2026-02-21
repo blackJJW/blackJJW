@@ -77,9 +77,6 @@
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/mqtt" alt="mqtt" width="40" height="40"/>
   </a>
-  <a href="https://www.emqx.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/emqx" alt="emqx" width="40" height="40"/>
-  </a>
 
   <!-- 🟫 DevOps / Infrastructure -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
